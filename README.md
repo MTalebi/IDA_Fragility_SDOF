@@ -51,7 +51,7 @@ The notebook is designed with modular functions and is thoroughly commented to e
 
 If you use this repository in your research or projects, please cite it as follows:
 
-> **Talebi-Kalaleh, M.** (Year). *IDA and Fragility Analysis of a Nonlinear SDOF System Using OpenSeesPy*. GitHub repository. Retrieved from [repository URL].
+> **Talebi-Kalaleh, M.** (Year). *IDA and Fragility Analysis of a Nonlinear SDOF System Using OpenSeesPy*. GitHub repository. Retrieved from [(https://github.com/MTalebi/IDA_Fragility_SDOF/tree/main)].
 
 Feel free to contact me at [talebika@ualberta.ca](mailto:talebika@ualberta.ca) with any questions or inquiries.
 
